@@ -3,9 +3,7 @@
 #include "robust/robust_lsq_schur_pcg_lifted.h"
 #include "robust/robust_lsq_schur_pcg_gnc.h"
 #include "robust/robust_lsq_schur_pcg_gnc_moo.h"
-#include "robust/robust_lsq_schur_pcg_gnc_gemm.h"
 #include "robust/robust_lsq_schur_pcg_filter_asker.h"
-#include "robust/robust_lsq_schur_pcg_filter_asker_gemm.h"
 #include "robust/robust_lsq_schur_pcg_gemm.h"
 #include "Base/v3d_timer.h"
 #include <iomanip>
