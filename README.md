@@ -3,11 +3,11 @@
 
 This C++ repository implements a number of state-of-the-art algorithms for **large-scale Bundle Adjustment**, including 
 - IRLS: Iteratively Re-weighted Least Squares
-- M-HQ: Multiplicative Half Quadratic Lifting
-- GOM+: Graduated Non-convexity.
-- MOO:  Robust fitting with Multi-Objective Optimization (Zach 2019)
-- ASKER: Adaptive Kernel Scaling
-- ReGeMM: Relaxed Generalized Majorization Minimization (ReGeMM)
+- M-HQ: [Multiplicative Half Quadratic Lifting](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/papers/8693/86930772.pdf).
+- GOM+: [Graduated Non-convexity](https://openaccess.thecvf.com/content_ECCV_2018/papers/Christopher_Zach_Descending_lifting_or_ECCV_2018_paper.pdf).
+- MOO:  [Robust fitting with Multi-Objective Optimization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zach_Pareto_Meets_Huber_Efficiently_Avoiding_Poor_Minima_in_Robust_Estimation_ICCV_2019_paper.pdf)
+- ASKER: [Adaptive Kernel Scaling](https://www.researchgate.net/publication/349494643_Escaping_Poor_Local_Minima_in_Large_Scale_Robust_Estimation_Generalized_Majorization-Minimization_and_Filter_Methods)
+- ReGeMM: [Relaxed Generalized Majorization Minimization (ReGeMM)](https://www.researchgate.net/publication/349494643_Escaping_Poor_Local_Minima_in_Large_Scale_Robust_Estimation_Generalized_Majorization-Minimization_and_Filter_Methods)
 
 See the following [paper](https://www.researchgate.net/publication/349494643_Escaping_Poor_Local_Minima_in_Large_Scale_Robust_Estimation_Generalized_Majorization-Minimization_and_Filter_Methods) for more details as well as the comparisons between the methods.
 
